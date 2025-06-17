@@ -3,7 +3,7 @@
 ## what's new ?
 
 - [Langchain_mcp_adapters](https://github.com/langchain-ai/langchain-mcp-adapters) 
-- FastMCP (no need of mcp['cli'])
+- [FastMCP](https://github.com/jlowin/fastmcp?tab=readme-ov-file#installation) (no need of mcp['cli'])
 - create MCP client using langgraph create_react_agent
 - Use any LLM
 - transport streamable_http
